@@ -1,4 +1,4 @@
-__pycache__/
-*.pkl
-ranked_loans.csv
-ranked_customers.csv
+git add artifacts
+git add .gitignore
+git commit -m "Add trained models to repo"
+git push
