@@ -1,0 +1,4 @@
+__pycache__/
+*.pkl
+ranked_loans.csv
+ranked_customers.csv
