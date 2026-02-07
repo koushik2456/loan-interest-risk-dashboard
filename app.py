@@ -1,5 +1,10 @@
 import streamlit as st
 import pandas as pd
+import subprocess
+import sys
+
+subprocess.check_call([sys.executable, "-m", "pip", "install", "joblib"])
+
 import joblib
 import plotly.express as px
 import numpy as np
